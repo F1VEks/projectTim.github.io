@@ -1,0 +1,20 @@
+* {
+	margin:0px;
+	padding:0px;
+	outline:1px solid orange;
+}
+
+body {
+	font-size: 50px;
+}
+
+main{
+	width:1200px;
+	margin: 0 auto;
+	background-color:#1c1c23;
+	color:#d1d3f8;
+}
+
+nav{
+	
+}

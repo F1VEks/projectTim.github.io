@@ -1,0 +1,44 @@
+*{
+	margin:0;
+	padding:0;
+	outline: 1px orange solid;
+}
+main{
+	padding:100px 300px 100px 300px;
+	width:1320px;
+	margin: 0 auto;
+	background-color:#1c1c23;
+	color:#d1d3f8;
+}
+.name{
+	font-size:30px;
+	margin:30px;
+	color:#d1d3f8;
+}
+a{
+	font-size:32px;
+	text-decoration:none;
+	color:#d1d3f8;
+	margin-left:50px;
+}
+input{
+	font-size:28px;
+}
+header{
+	display:flex;
+	justify-content:center;
+	
+}
+.content{
+	padding:50px 0  50px 360px;
+	
+	
+}
+footer{
+	display:flex;
+	justify-content:center;
+}
+.parol2{
+	padding-right:360px;
+	
+}	
